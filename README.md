@@ -4,6 +4,10 @@ Module: CSC-44112 — Advanced Applications of AI and ML
 Student: Muhammad Moazzam Kiani | ID: 25043634
 Academic Year: 2025–2026
 
+dataset link:
+https://www.kaggle.com/datasets/outofskills/driving-behavior
+
+
 Project Overview
 This project develops a machine learning pipeline to classify driver behaviour as Normal, Aggressive, or Slow using smartphone accelerometer and gyroscope data. Four models are compared: Random Forest, Logistic Regression, KNN, and ANN.
 
