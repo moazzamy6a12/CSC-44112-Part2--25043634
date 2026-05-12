@@ -10,8 +10,12 @@ This project develops a machine learning pipeline to classify driver behaviour a
 Repository Contents
 FileDescription25043634_Part2.ipynbMain Jupyter Notebook (full pipeline)train_motion_data.csvTraining datasettest_motion_data.csvTest dataset
 
-Results Summary
-ModelAccuracyMacro AUCRandom Forest92.94%0.989ANN85.96%0.965KNN (k=1)73.63%0.799Logistic Regression54.75%0.743
+| Model | Accuracy | Macro AUC |
+|-------|----------|-----------|
+| Random Forest | 92.94% | 0.989 |
+| ANN | 85.96% | 0.965 |
+| KNN (k=1) | 73.63% | 0.799 |
+| Logistic Regression | 54.75% | 0.743 |
 
 Dataset
 Outofskills (2021) — Driving Behavior Dataset
