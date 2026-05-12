@@ -7,8 +7,11 @@ Academic Year: 2025–2026
 Project Overview
 This project develops a machine learning pipeline to classify driver behaviour as Normal, Aggressive, or Slow using smartphone accelerometer and gyroscope data. Four models are compared: Random Forest, Logistic Regression, KNN, and ANN.
 
-Repository Contents
-FileDescription25043634_Part2.ipynbMain Jupyter Notebook (full pipeline)train_motion_data.csvTraining datasettest_motion_data.csvTest dataset
+| File | Description |
+|------|-------------|
+| `25043634_Part2.ipynb` | Main Jupyter Notebook (full pipeline) |
+| `train_motion_data.csv` | Training dataset |
+| `test_motion_data.csv` | Test dataset |
 
 | Model | Accuracy | Macro AUC |
 |-------|----------|-----------|
